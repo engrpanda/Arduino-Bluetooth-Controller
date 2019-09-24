@@ -16,10 +16,10 @@ This app is under beta test. any bugs or error can be reported or send to my ema
 
 # Serial Code to Arduino
 
-# Game pad serial code to arduino
+# Gamepad Serial code to Arduino
 
 ![GAMEPAD_CODE](https://user-images.githubusercontent.com/53995355/65497029-18b9f900-deec-11e9-83d9-77695219c3f0.png)
 
-# Switch ON/OFF serial code to arduino
+# Switch ON/OFF Serial code to Arduino
 
 ![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
