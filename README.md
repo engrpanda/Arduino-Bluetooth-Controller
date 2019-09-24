@@ -11,7 +11,7 @@ This app is under beta test. any bugs or error can be reported or send to my ema
 ![4](https://user-images.githubusercontent.com/53995355/65497276-89f9ac00-deec-11e9-8701-28c182f16724.png)
 ![3](https://user-images.githubusercontent.com/53995355/65497275-89f9ac00-deec-11e9-9278-ddb8776ff3b3.png)
 
-~Labels(D1, D2, A0 etc) can be Rename. i.e LED1, Relay1.
+~Labels(D2, D3, A0 etc) can be Rename. i.e LED1, Relay1.
 
 ![2](https://user-images.githubusercontent.com/53995355/65497274-89611580-deec-11e9-891e-18971f0a444e.png)
 ![1](https://user-images.githubusercontent.com/53995355/65497272-88c87f00-deec-11e9-9024-6ae516846173.png)
