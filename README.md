@@ -1,8 +1,10 @@
 # Arduino-Bluetooth-Controller 
-for HC 05 , HC 06 & HM10
+# For HC 05 , HC 06 & HM10
+
 This app makes you control your Arduino project using your mobile phone thru bluetooth(HC-06 & HM10).
-Compatible with android from 4.4.4 (API19) to android 9(API28). 
-//This app is under beta test. any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
+
+# Compatible with android from 4.4.4 (API19) to android 9(API28). 
+This app is under beta test. any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
 
 
 
