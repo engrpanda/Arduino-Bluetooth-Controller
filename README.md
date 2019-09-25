@@ -9,6 +9,11 @@ This app makes you control your Arduino projects like RC car or any IOT applicat
 # Compatible from Bluetooth 2.0 to Bluetooth 5.0.
 This app is under beta test. Any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
 
+# PARTS REQUIRED: 
+- ROBOT CAR CHASIS WITH DC MOTORS
+- ARDUINO UNO or similar
+- L298N MOTOR DRIVER
+- HC05/06 OR HM10
 
 Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
 
