@@ -1,5 +1,5 @@
 # Arduino-Bluetooth-Controller 
-app verion: 1.0
+app version: 1.0
 
 For HC 05 , HC 06 & HM 10
 
