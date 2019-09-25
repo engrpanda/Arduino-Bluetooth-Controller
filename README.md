@@ -20,7 +20,6 @@ You can choose from Switch ON/OFF mode or Gamepad mode. other mode is coming soo
 
 #
 # FOR HC 05/06
-#
 # SWITCH ON/OFF MODE
 Labels(D2, D3, A0 etc) can be Rename. i.e LED1, Relay1.
 
