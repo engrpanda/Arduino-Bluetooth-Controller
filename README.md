@@ -10,7 +10,7 @@ This app is under beta test. Any bugs or error can be reported or send to my ema
 Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
 
 ![4](https://user-images.githubusercontent.com/53995355/65497276-89f9ac00-deec-11e9-8701-28c182f16724.png)
-
+#
 You can choose from Switch ON/OFF mode or Gamepad mode. other mode is coming soon.
 
 ![3](https://user-images.githubusercontent.com/53995355/65497275-89f9ac00-deec-11e9-9278-ddb8776ff3b3.png)
