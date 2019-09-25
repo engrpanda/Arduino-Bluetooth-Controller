@@ -30,6 +30,7 @@ Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are 
 
 
  Gamepad Serial code to Arduino
+ 
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
 
 ![GAMEPAD_CODE](https://user-images.githubusercontent.com/53995355/65497029-18b9f900-deec-11e9-83d9-77695219c3f0.png)
