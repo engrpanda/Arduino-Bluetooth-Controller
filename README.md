@@ -1,4 +1,5 @@
 # Arduino-Bluetooth-Controller 
+app verion: 1.0
  For HC 05 , HC 06 & HM 10
 
 This app makes you control your Arduino project using your mobile phone thru bluetooth module.
