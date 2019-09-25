@@ -18,9 +18,9 @@ You can choose from Switch ON/OFF mode or Gamepad mode. other mode is coming soo
 
 
 
-
+#
 # FOR HC 05/06
-
+#
 # SWITCH ON/OFF MODE
 Labels(D2, D3, A0 etc) can be Rename. i.e LED1, Relay1.
 
@@ -29,7 +29,7 @@ Digital pins 2-13 & Analog pins A0-A5 can be used.
 ![2](https://user-images.githubusercontent.com/53995355/65497274-89611580-deec-11e9-891e-18971f0a444e.png)
 
 
-
+#
 # HC05/06 Schematic Fritzing Diagram
 Sample Connection of Simple LED-Bluetooth control connection. You can add LED up to 18LEDs (D2-A5) to control.
 
@@ -40,6 +40,12 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 
 ![hc06 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20relay_bb.jpg?raw=true)
 
+#
+# Serial Code to Arduino
+
+ Switch ON/OFF Serial code to Arduino
+
+![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
 
 
 # GAMEPAD MODE
@@ -50,13 +56,8 @@ Sample Connection of RC Car-Bluetooth control connection. Using this controller 
 
 ![hc06 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20car_bb.jpg?raw=true)
 
+#
 # Serial Code to Arduino
-
- Switch ON/OFF Serial code to Arduino
-
-![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
-
-
  Gamepad Serial code to Arduino
  
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
@@ -83,8 +84,22 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 
 ![hm10 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20relay_bb.jpg?raw=true)
 
+#
+# Serial Code to Arduino
+
+ Switch ON/OFF Serial code to Arduino
+
+![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
+
+
 Sample Connection of RC Car-Bluetooth control connection. Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
 
 ![hm10 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true)
+#
+# Serial Code to Arduino
+ Gamepad Serial code to Arduino
+ 
+ NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
 
+![GAMEPAD_CODE](https://user-images.githubusercontent.com/53995355/65497029-18b9f900-deec-11e9-83d9-77695219c3f0.png)
 
