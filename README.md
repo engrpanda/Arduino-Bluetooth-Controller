@@ -33,7 +33,6 @@ Digital pins 2-13 & Analog pins A0-A5 can be used.
 # HC05/06 Schematic Fritzing Diagram
 Sample Connection of Simple LED-Bluetooth control connection. You can add LED up to 18LEDs (D2-A5) to control.
 
-
 ![hc06 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true)
 
 Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
@@ -42,14 +41,12 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 
 #
 # Serial Code to Arduino
-
  Switch ON/OFF Serial code to Arduino
 
 ![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
 
-
+#
 # GAMEPAD MODE
-
 ![1](https://user-images.githubusercontent.com/53995355/65497272-88c87f00-deec-11e9-9024-6ae516846173.png)
 
 Sample Connection of RC Car-Bluetooth control connection. Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
