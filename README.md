@@ -45,11 +45,15 @@ Digital pins 2-13 & Analog pins A0-A5 can be used.
 #
 - HC05/06 Schematic Fritzing Diagram
 
-Sample Connection of Simple LED-Bluetooth control connection. You can add LED up to 18LEDs (D2-A5) to control.
+Sample Connection of Simple LED-Bluetooth control connection. 
+
+You can add LED up to 18LEDs (D2-A5) to control.
 
 ![hc06 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true)
 
-Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
+Sample Connection of Relay-Bluetooth control connection. 
+
+Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
 
 ![hc06 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20relay_bb.jpg?raw=true)
 
@@ -71,12 +75,15 @@ PARTS REQUIRED:
 
 ![1](https://user-images.githubusercontent.com/53995355/65497272-88c87f00-deec-11e9-9024-6ae516846173.png)
 
-Sample Connection of RC Car-Bluetooth control connection. Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
+Sample Connection of RC Car-Bluetooth control connection. 
+
+Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
 
 ![hc06 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20car_bb.jpg?raw=true)
 
 #
 - Serial Code to Arduino
+
  Gamepad Serial code to Arduino
  
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
@@ -103,11 +110,15 @@ Labels(D2, D3, A0 etc) can be Rename. i.e LED1, Relay1.
 Digital pins 2-13 & Analog pins A0-A5 can be used.
 
 
-Sample Connection of Simple LED-Bluetooth control connection. You can add LED up to 18LEDs (D2-A5) to control.
+Sample Connection of Simple LED-Bluetooth control connection. 
+
+You can add LED up to 18LEDs (D2-A5) to control.
 
 ![hm10 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20led_bb.jpg?raw=true)
 
-Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
+Sample Connection of Relay-Bluetooth control connection. 
+
+Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
 
 ![hm10 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20relay_bb.jpg?raw=true)
 
@@ -127,7 +138,9 @@ PARTS REQUIRED:
 - Connecting wires
 - HC05/06 OR HM10
 
-Sample Connection of RC Car-Bluetooth control connection. Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
+Sample Connection of RC Car-Bluetooth control connection. 
+
+Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
 
 ![hm10 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true)
 
