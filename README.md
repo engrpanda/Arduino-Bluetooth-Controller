@@ -81,7 +81,7 @@ Sample Connection of RC Car-Bluetooth control connection. Using this controller 
 
 
 
-
+#
 # FOR HM10
 
 # SWITCH ON/OFF MODE
@@ -92,6 +92,7 @@ PARTS REQUIRED:
 - Connecting wires
 - Breadboard
 - HC05/06 OR HM10
+
 Labels(D2, D3, A0 etc) can be Rename. i.e LED1, Relay1.
 
 Digital pins 2-13 & Analog pins A0-A5 can be used.
@@ -112,6 +113,7 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 
 ![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
 
+#
 # GAMEPAD MODE
 PARTS REQUIRED: 
 - ROBOT CAR CHASIS WITH DC MOTORS
@@ -123,6 +125,7 @@ PARTS REQUIRED:
 Sample Connection of RC Car-Bluetooth control connection. Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
 
 ![hm10 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true)
+
 #
 # Serial Code to Arduino
  Gamepad Serial code to Arduino
