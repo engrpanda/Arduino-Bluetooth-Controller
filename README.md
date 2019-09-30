@@ -129,6 +129,7 @@ Sample Connection of RC Car-Bluetooth control connection. Using this controller 
 
 #
 - Serial Code to Arduino
+
  Gamepad Serial code to Arduino
  
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
