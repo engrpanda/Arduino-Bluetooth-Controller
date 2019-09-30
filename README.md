@@ -53,7 +53,9 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 
 #
 - Serial Code to Arduino
+
  Switch ON/OFF Serial code to Arduino
+ 
 ![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
 
 #
