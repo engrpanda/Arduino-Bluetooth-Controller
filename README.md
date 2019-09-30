@@ -9,6 +9,7 @@ All the files (apk, circuit, program, codes) are all provided) :)
 
 # Compatible with android 4.4.4 (API 19) to android 9(API 28). 
 # Compatible from Bluetooth 2.0 to Bluetooth 5.0.
+
 This app is under beta test. Any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
 
 
@@ -43,6 +44,7 @@ Digital pins 2-13 & Analog pins A0-A5 can be used.
 
 #
 - HC05/06 Schematic Fritzing Diagram
+
 Sample Connection of Simple LED-Bluetooth control connection. You can add LED up to 18LEDs (D2-A5) to control.
 
 ![hc06 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true)
