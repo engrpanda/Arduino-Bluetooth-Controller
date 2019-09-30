@@ -42,7 +42,7 @@ Digital pins 2-13 & Analog pins A0-A5 can be used.
 
 
 #
-# HC05/06 Schematic Fritzing Diagram
+- HC05/06 Schematic Fritzing Diagram
 Sample Connection of Simple LED-Bluetooth control connection. You can add LED up to 18LEDs (D2-A5) to control.
 
 ![hc06 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true)
@@ -52,9 +52,8 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 ![hc06 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20relay_bb.jpg?raw=true)
 
 #
-# Serial Code to Arduino
+- Serial Code to Arduino
  Switch ON/OFF Serial code to Arduino
-
 ![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
 
 #
@@ -73,7 +72,7 @@ Sample Connection of RC Car-Bluetooth control connection. Using this controller 
 ![hc06 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20car_bb.jpg?raw=true)
 
 #
-# Serial Code to Arduino
+- Serial Code to Arduino
  Gamepad Serial code to Arduino
  
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
@@ -86,7 +85,7 @@ Sample Connection of RC Car-Bluetooth control connection. Using this controller 
 #
 # FOR HM10
 
-# SWITCH ON/OFF MODE
+- SWITCH ON/OFF MODE
 PARTS REQUIRED: 
 - ARDUINO UNO or similar
 - Anything Digital OUTPUT i.e LED's, Relay etc.
@@ -109,14 +108,14 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 ![hm10 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20relay_bb.jpg?raw=true)
 
 #
-# Serial Code to Arduino
+- Serial Code to Arduino
 
  Switch ON/OFF Serial code to Arduino
 
 ![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
 
 #
-# GAMEPAD MODE
+- GAMEPAD MODE
 PARTS REQUIRED: 
 - ROBOT CAR CHASIS WITH DC MOTORS
 - ARDUINO UNO or similar
@@ -129,7 +128,7 @@ Sample Connection of RC Car-Bluetooth control connection. Using this controller 
 ![hm10 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true)
 
 #
-# Serial Code to Arduino
+- Serial Code to Arduino
  Gamepad Serial code to Arduino
  
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
