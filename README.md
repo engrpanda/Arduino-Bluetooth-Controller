@@ -85,7 +85,7 @@ Sample Connection of RC Car-Bluetooth control connection. Using this controller 
 #
 # FOR HM10
 
-- SWITCH ON/OFF MODE
+# SWITCH ON/OFF MODE
 PARTS REQUIRED: 
 - ARDUINO UNO or similar
 - Anything Digital OUTPUT i.e LED's, Relay etc.
@@ -115,7 +115,7 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 ![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
 
 #
-- GAMEPAD MODE
+# GAMEPAD MODE
 PARTS REQUIRED: 
 - ROBOT CAR CHASIS WITH DC MOTORS
 - ARDUINO UNO or similar
