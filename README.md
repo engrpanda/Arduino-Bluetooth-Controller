@@ -9,11 +9,6 @@ This app makes you control your Arduino projects like RC car or any IOT applicat
 # Compatible from Bluetooth 2.0 to Bluetooth 5.0.
 This app is under beta test. Any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
 
-# PARTS REQUIRED: 
-- ROBOT CAR CHASIS WITH DC MOTORS
-- ARDUINO UNO or similar
-- L298N MOTOR DRIVER
-- HC05/06 OR HM10
 
 Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
 
@@ -29,6 +24,14 @@ You can choose from Switch ON/OFF mode or Gamepad mode. other mode is coming soo
 #
 # FOR HC 05/06
 # SWITCH ON/OFF MODE
+PARTS REQUIRED: 
+- ARDUINO UNO or similar
+- Anything Digital OUTPUT i.e LED's, Relay etc.
+- Some resistors 
+- Connecting wires
+- Breadboard
+- HC05/06 OR HM10
+
 Labels(D2, D3, A0 etc) can be Rename. i.e LED1, Relay1.
 
 Digital pins 2-13 & Analog pins A0-A5 can be used.
@@ -54,6 +57,13 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 
 #
 # GAMEPAD MODE
+PARTS REQUIRED: 
+- ROBOT CAR CHASIS WITH DC MOTORS
+- ARDUINO UNO or similar
+- L298N MOTOR DRIVER
+- Connecting wires
+- HC05/06 OR HM10
+
 ![1](https://user-images.githubusercontent.com/53995355/65497272-88c87f00-deec-11e9-9024-6ae516846173.png)
 
 Sample Connection of RC Car-Bluetooth control connection. Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
@@ -75,6 +85,13 @@ Sample Connection of RC Car-Bluetooth control connection. Using this controller 
 # FOR HM10
 
 # SWITCH ON/OFF MODE
+PARTS REQUIRED: 
+- ARDUINO UNO or similar
+- Anything Digital OUTPUT i.e LED's, Relay etc.
+- Some resistors 
+- Connecting wires
+- Breadboard
+- HC05/06 OR HM10
 Labels(D2, D3, A0 etc) can be Rename. i.e LED1, Relay1.
 
 Digital pins 2-13 & Analog pins A0-A5 can be used.
@@ -95,6 +112,13 @@ Sample Connection of Relay-Bluetooth control connection. Up to 18 channels (D2-A
 
 ![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
 
+# GAMEPAD MODE
+PARTS REQUIRED: 
+- ROBOT CAR CHASIS WITH DC MOTORS
+- ARDUINO UNO or similar
+- L298N MOTOR DRIVER
+- Connecting wires
+- HC05/06 OR HM10
 
 Sample Connection of RC Car-Bluetooth control connection. Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
 
