@@ -5,6 +5,8 @@ For HC 05 , HC 06 & HM 10
 
 This app makes you control your Arduino projects like RC car or any IOT applications using your mobile phone thru bluetooth.
 
+All the files (apk, circuit, program, codes) are all provided) :)
+
 # Compatible with android 4.4.4 (API 19) to android 9(API 28). 
 # Compatible from Bluetooth 2.0 to Bluetooth 5.0.
 This app is under beta test. Any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
