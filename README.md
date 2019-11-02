@@ -3,6 +3,12 @@ app version: 1.1
 
 For HC 05 , HC 06 & HM 10
 
+- ok why plus ultra? first im a fan of all might(hero academia LOL). So there's a lot of arduino bluetooth controller in googlestore(play store) but there's limited buttons, functions and also limited to hc05 only or hm10 only. So i made this app to circumvent those problems whehe. This app is for those who has many types of bluetooth module and dont want to download each app specifically for that BT module. 
+
+- why panda? cause i love panda :P
+
+
+
 This app makes you control your Arduino projects like RC car or any IOT applications using your mobile phone thru bluetooth.
 
 All the files (apk, circuit, program, codes) are all provided) :)
