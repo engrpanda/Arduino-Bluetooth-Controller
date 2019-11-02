@@ -1,4 +1,4 @@
-# Arduino-Bluetooth-Controller 
+# Arduino-Bluetooth-Controller plus ULTRA
 app version: 1.1
 
 For HC 05 , HC 06 & HM 10
@@ -15,11 +15,11 @@ This app is under beta test.  Any bugs or error can be reported or send to my em
 
 Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
 
-![4](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/screen1.PNG?raw=true)
+![screen1](https://user-images.githubusercontent.com/53995355/68070164-fd7eac80-fd27-11e9-973c-0e5ed9f63b9f.png)
 #
-You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode or Gyro mode. 
+You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode or Gyro mode. (will update more mode soon).
 
-![3](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/menu.PNG?raw=true)
+![menu](https://user-images.githubusercontent.com/53995355/68070167-feafd980-fd27-11e9-9ebf-5576c6438b12.png)
 
 
 
@@ -112,3 +112,18 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
 
 ![GAMEPAD_CODE](https://user-images.githubusercontent.com/53995355/65497029-18b9f900-deec-11e9-83d9-77695219c3f0.png)
+
+
+#
+# 3.) VOICE RECOGNITION MODE
+
+This mode use google tts & speech recognition. Make sure the device has it. This mode lets the user control IOT applications using voice command thru arduino.
+
+![voice](https://user-images.githubusercontent.com/53995355/68070165-fd7eac80-fd27-11e9-81e8-2f74d27eccd3.png)
+
+#
+# 4.) GYROSCOPE/ACCELEROMETER MODE
+
+This mode extract the gyro/accel sensor value of your phone. 
+
+![gyro](https://user-images.githubusercontent.com/53995355/68070166-fe174300-fd27-11e9-892a-7d5a2ebd6b3b.png)
