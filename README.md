@@ -10,14 +10,14 @@ All the files (apk, circuit, program, codes) are all provided) :)
 # Compatible with android 4.4.4 (API 19) to android 9(API 28). 
 # Compatible from Bluetooth 2.0 to Bluetooth 5.0.
 
-This app is under beta test. Any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
+This app is under beta test.  Any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
 
 
 Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
 
 ![4](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/screen1.PNG?raw=true)
 #
-You can choose from Switch ON/OFF mode or Gamepad mode. other mode is coming soon.
+You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode or Gyro mode. 
 
 ![3](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/menu.PNG?raw=true)
 
