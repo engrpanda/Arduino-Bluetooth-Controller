@@ -40,44 +40,38 @@ Digital pins 2-13 & Analog pins A0-A5 can be used.
 
 ![2](https://user-images.githubusercontent.com/53995355/65497274-89611580-deec-11e9-891e-18971f0a444e.png)
 
-
 #
-- HC05/06 Schematic Fritzing Diagram
-
-Sample Connection of Simple LED-Bluetooth control connection. 
+# Sample Connection of Simple LED-Bluetooth control connection. 
 
 You can add LED up to 18LEDs (D2-A5) to control.
 
 
-# A.) FOR HC 05/06
-
+# a.) FOR HC 05/06
 
 ![hc06 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true)
 
-# B.) FOR HM10
+# b.) FOR HM10
 
 ![hm10 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20led_bb.jpg?raw=true)
 
-
-
---------------------------
-Sample Connection of Relay-Bluetooth control connection. 
+#
+# Sample Connection of Relay-Bluetooth control connection. 
 
 Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
 
-# A.) FOR HC 05/06
+# a.) FOR HC 05/06
 
 ![hc06 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20relay_bb.jpg?raw=true)
 
 
-# B.) FOR HM10
+# b.) FOR HM10
 
 ![hm10 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20relay_bb.jpg?raw=true)
 
 
 
 #
-- Serial Code to Arduino
+# Serial Code to Arduino
 
  Switch ON/OFF Serial code to Arduino
  
@@ -94,23 +88,24 @@ PARTS REQUIRED:
 
 ![1](https://user-images.githubusercontent.com/53995355/65497272-88c87f00-deec-11e9-9024-6ae516846173.png)
 
-Sample Connection of RC Car-Bluetooth control connection. 
+#
+# Sample Connection of RC Car-Bluetooth control connection. 
 
 Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
 
 
-# A.) FOR HC 05/06
+# a.) FOR HC 05/06
 
 ![hc06 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20car_bb.jpg?raw=true)
 
 
-# B.) FOR HM10
+# b.) FOR HM10
 
 ![hm10 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true)
 
 
 #
-- Serial Code to Arduino
+# Serial Code to Arduino
 
  Gamepad Serial code to Arduino
  
