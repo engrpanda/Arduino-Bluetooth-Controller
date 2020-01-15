@@ -33,19 +33,19 @@ You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode. (w
 ![menu](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/2.jpg)
 
 
-
+#NOTE: Important. Before uploading to arduino disconnect first any connection in PIN D0 & D1 (TX,RX).
 
 #
 # 1.) SWITCH ON/OFF MODE
 PARTS REQUIRED: 
 - ARDUINO UNO or similar
 - Anything Digital OUTPUT i.e LED's, Relay etc.
-- Some resistors 
+- Some resistors
 - Connecting wires
 - Breadboard
 - HC05/06 OR HM10
 
-Labels(D2, D3, A0 etc) can be Rename. i.e LED1, Relay1.
+Labels(D2, D3, A0 etc) can be Rename. i.e Light1, LED1, Relay1, .
 
 Digital pins 2-13 & Analog pins A0-A5 can be used.
 
