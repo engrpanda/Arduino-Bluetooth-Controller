@@ -1,5 +1,5 @@
 # Arduino-Bluetooth-Controller plus ULTRA
-app version: 1.1
+app version: 1.2
 
 For HC 05 , HC 06 & HM 10
 
@@ -21,11 +21,12 @@ This app is under beta test.  Any bugs or error can be reported or send to my em
 
 Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
 
-![screen1](https://user-images.githubusercontent.com/53995355/68070164-fd7eac80-fd27-11e9-973c-0e5ed9f63b9f.png)
+![screen1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/plus_ultra.jpg)
+![screen1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/1.jpg)
 #
-You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode or Gyro mode. (will update more mode soon).
+You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode. (will update more mode soon).
 
-![menu](https://user-images.githubusercontent.com/53995355/68070167-feafd980-fd27-11e9-9ebf-5576c6438b12.png)
+![menu](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/2.jpg)
 
 
 
@@ -44,7 +45,7 @@ Labels(D2, D3, A0 etc) can be Rename. i.e LED1, Relay1.
 
 Digital pins 2-13 & Analog pins A0-A5 can be used.
 
-![2](https://user-images.githubusercontent.com/53995355/65497274-89611580-deec-11e9-891e-18971f0a444e.png)
+![2](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/3.jpg)
 
 #
 # Sample Connection of Simple LED-Bluetooth control connection. 
@@ -92,7 +93,7 @@ PARTS REQUIRED:
 - Connecting wires
 - HC05/06 OR HM10
 
-![1](https://user-images.githubusercontent.com/53995355/65497272-88c87f00-deec-11e9-9024-6ae516846173.png)
+![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.jpg)
 
 #
 # Sample Connection of RC Car-Bluetooth control connection. 
@@ -125,11 +126,5 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
 
 This mode use google tts & speech recognition. Make sure the device has it. This mode lets the user control IOT applications using voice command thru arduino.
 
-![voice](https://user-images.githubusercontent.com/53995355/68070165-fd7eac80-fd27-11e9-81e8-2f74d27eccd3.png)
-
-#
-# 4.) GYROSCOPE/ACCELEROMETER MODE
-
-This mode extract the gyro/accel sensor value of your phone. 
-
-![gyro](https://user-images.githubusercontent.com/53995355/68070166-fe174300-fd27-11e9-892a-7d5a2ebd6b3b.png)
+![voice](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/5.jpg)
+![voice](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/6.jpg)
