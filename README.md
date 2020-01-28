@@ -16,8 +16,11 @@ For HC 05 , HC 06 & HM 10
 This app makes you control your Arduino projects like RC car or any IOT applications using your mobile phone thru bluetooth.
 
 All the files (apk, circuit, program, codes) are all provided) :)
+
 https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/ARDUINO%20PROGRAM
+
 https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/SCHEMATIC%20FRITZING%20DIAGRAM
+
 https://play.google.com/store/apps/details?id=com.ArduBT.panda&hl=en
 
 # Compatible with android 4.4.4 (API 19) to android 9(API 28). 
