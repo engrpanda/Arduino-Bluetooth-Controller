@@ -1,6 +1,6 @@
 # ArduBT-Controller plus ULTRA
 # Arduino-Bluetooth-Controller plus ULTRA
-app version: 1.2
+app version: 1.3
 
 
 3 Modes: SWITCH ON/OFF MODE, GAMEPAD MODE ,VOICE RECOGNITION MODE (more modes in progress).
@@ -8,7 +8,9 @@ app version: 1.2
 
 For HC 05 , HC 06 & HM 10
 
-- ok why plus ultra? first im a fan of all might(hero academia:D). So there's a lot of arduino bluetooth controller in googlestore(play store) but there's limited buttons, functions and also limited to hc05 only or hm10 only. So i made this app to circumvent those problems whehe. This app is for those who has two types of bluetooth module and dont want to download each app specifically for that BT module. 
+- ok why plus ultra? first im a fan of all might(Plus ultra means go beyond your limit). :) 
+
+So there's a lot of arduino bluetooth controller in googlestore(play store) but there's limited buttons, functions and also limited to hc05 only or hm10 only. So i made this app to circumvent those problems whehe. This app is for those who has two types of bluetooth module and dont want to download each app specifically for that BT module. 
 
 
 
