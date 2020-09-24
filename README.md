@@ -1,6 +1,5 @@
 # ArduBT-Controller plus ULTRA
 # Arduino-Bluetooth-Controller plus ULTRA
-app version: 1.3
 
 
 3 Modes: SWITCH ON/OFF MODE, GAMEPAD MODE ,VOICE RECOGNITION MODE (more modes in progress).
@@ -32,7 +31,7 @@ https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/SCHEMATIC%
 
 https://play.google.com/store/apps/details?id=com.ArduBT.panda&hl=en
 
-# Compatible with android 4.4.4 (API 19) to android 9(API 28). 
+# Compatible with android 4.4.4 (API 19) to android 10(API 29). 
 # Compatible from Bluetooth 2.0 to Bluetooth 5.0.
 
 This app is under beta test.  Any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
@@ -102,7 +101,7 @@ Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your li
 
  Switch ON/OFF Serial code to Arduino
  
-![SWITCH_CODE](https://user-images.githubusercontent.com/53995355/65497031-19528f80-deec-11e9-8a1d-17e3201a0b1f.png)
+![SWITCH_CODE](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/ARDUINO%20PROGRAM/SWITCH_CODE.PNG?raw=true)
 
 #
 # 2.) GAMEPAD MODE
@@ -136,9 +135,9 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
 
  Gamepad Serial code to Arduino
  
- NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value is "S".
+ NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value for UP, DOWN, LEFT, RIGHT is "S" and for SQUARE, TRIANGLE, CIRCLE, EXS is "s". 
 
-![GAMEPAD_CODE](https://user-images.githubusercontent.com/53995355/65497029-18b9f900-deec-11e9-83d9-77695219c3f0.png)
+![GAMEPAD_CODE](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/ARDUINO%20PROGRAM/GAMEPAD_CODE.PNG?raw=true)
 
 
 #
