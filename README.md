@@ -113,7 +113,7 @@ PARTS REQUIRED:
 - HC05/06 OR HM10
 
 ![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.jpg)
-
+![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.1.png?raw=true)
 #
 # Sample Connection of RC Car-Bluetooth control connection. 
 
