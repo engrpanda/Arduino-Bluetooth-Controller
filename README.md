@@ -143,9 +143,17 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
 #
 # 3.) VOICE RECOGNITION MODE
 
-This mode use google tts & speech recognition. Make sure the device has it. This mode lets the user control IOT applications using voice command thru arduino.(NEED INTERNET)
+This mode lets the user control IOT applications using voice command thru arduino.(NEED INTERNET)
+
+
+This mode use google tts & speech recognition. Make sure the device has it. Any Language can be recognized based on your phone google recognition. Voice text and arduino text code must be the same for it to work (Case sensitive).
+
 
 ![voice](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/5.jpg)
 ![voice](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/6.jpg)
+
+# Sample Code
+
+
 ![voice](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/Voice%20sample.PNG)
 
