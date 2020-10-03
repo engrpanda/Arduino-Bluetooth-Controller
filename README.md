@@ -114,6 +114,11 @@ PARTS REQUIRED:
 
 ![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.jpg)
 ![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.1.png?raw=true)
+![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/ipcam.jpg?raw=true)
+
+Using 3rd party IP CAM (copy the IP address)
+link:https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_US
+
 #
 # Sample Connection of RC Car-Bluetooth control connection. 
 
