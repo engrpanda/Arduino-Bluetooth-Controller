@@ -37,17 +37,17 @@ This app is under beta test.  Any bugs or error can be reported or send to my em
 - [APP](#app)
 - [1 SWITCH ON OFF MODE](#1-switch-on-off-mode)
   - [Sample Connection of Simple LED Bluetooth control](#sample-connection-of-simple-led-bluetooth-control)
-    - [FOR HC 05 or 06](#for-hc-05-or-06)
-    - [FOR HM10](#for-hm10)
+    - [FOR HC 05 or 06 led](#for-hc-05-or-06-led)
+    - [FOR HM10 led](#for-hm10-led)
   - [Sample Connection of Relay Bluetooth control](#sample-connection-of-relay-bluetooth-control)
-    - [FOR HC 05 or 06](#for-hc-05-or-06)
-    - [FOR HM10](#for-hm10)
-    - [Serial Code to Arduino](#serial-code-to-arduino)
+    - [FOR HC 05 or 06 relay](#for-hc-05-or-06-relay)
+    - [FOR HM10 relay](#for-hm10-relay)
+    - [Serial Code to Arduino led](#serial-code-to-arduino-led)
 - [2 GAMEPAD MODE](#2-gamepad-mode)
   - [Sample Connection of RC Car Bluetooth control](#sample-connection-of-rc-car-bluetooth-control)
-    - [FOR HC 05 or 06](#for-hc-05-or-06)
-    - [FOR HM10](#for-hm10)
-    - [Serial Code to Arduino](#serial-code-to-arduino)
+    - [FOR HC 05 or 06 car](#for-hc-05-or-06-car)
+    - [FOR HM10 car](#for-hm10-car)
+    - [Serial Code to Arduino car](#serial-code-to-arduino-car)
 - [3 VOICE RECOGNITION MODE](#3-voice-recognition-mode)
 
 
@@ -104,11 +104,11 @@ Digital pins 2-13 & Analog pins A0-A5 can be used.
 You can add LED up to 18LEDs (D2-A5) to control.
 
 
-##### FOR HC 05 or 06
+##### FOR HC 05 or 06 led
 
 ![hc06 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true)
 
-##### FOR HM10
+##### FOR HM10 relay led
 
 ![hm10 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20led_bb.jpg?raw=true)
 
@@ -117,19 +117,19 @@ You can add LED up to 18LEDs (D2-A5) to control.
 
 Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
 
-#### FOR HC 05 or 06
+#### FOR HC 05 or 06 relay
 
 ![hc06 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20relay_bb.jpg?raw=true)
 
 
-#### FOR HM10
+#### FOR HM10 relay
 
 ![hm10 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20relay_bb.jpg?raw=true)
 
 
 
 #
-#### Serial Code to Arduino
+#### Serial Code to Arduino led
 
  Switch ON/OFF Serial code to Arduino
  
@@ -159,18 +159,18 @@ link:https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_US
 Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
 
 
-#### FOR HC 05 or 06
+#### FOR HC 05 or 06 car
 
 ![hc06 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20car_bb.jpg?raw=true)
 
 
-#### FOR HM10
+#### FOR HM10 car
 
 ![hm10 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true)
 
 
 #
-##### Serial Code to Arduino
+##### Serial Code to Arduino car
 
  Gamepad Serial code to Arduino
  
