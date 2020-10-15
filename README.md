@@ -134,11 +134,7 @@ Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your li
 ## 2 GAMEPAD MODE
 PARTS REQUIRED: 
 - ROBOT CAR CHASIS WITH DC MOTORS
-- ARDUINO UNO or simil    - [FOR HC 05 or 06](#for-hc-05-or-06)
-    - [FOR HM10](#for-hm10)
-    - [Serial Code to Arduino](#serial-code-to-arduino)    - [FOR HC 05 or 06](#for-hc-05-or-06)
-    - [FOR HM10](#for-hm10)
-    - [Serial Code to Arduino](#serial-code-to-arduino)ar
+- ARDUINO UNO or similar
 - L298N MOTOR DRIVER
 - Connecting wires
 - HC05/06 OR HM10
@@ -161,9 +157,7 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
 ![hc06 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20car_bb.jpg?raw=true)
 
 
-#### FOR HM10    - [FOR HC 05 or 06](#for-hc-05-or-06)
-    - [FOR HM10](#for-hm10)
-    - [Serial Code to Arduino](#serial-code-to-arduino)
+#### FOR HM10
 
 ![hm10 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true)
 
