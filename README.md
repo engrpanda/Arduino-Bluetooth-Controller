@@ -44,7 +44,7 @@ This app is under beta test.  Any bugs or error can be reported or send to my em
     - [FOR HM10](#for-hm10)
     - [Serial Code to Arduino](#serial-code-to-arduino)
 - [2 GAMEPAD MODE](#2-gamepad-mode)
-  - [Sample Connection of Relay Bluetooth control](#sample-connection-of-relay-bluetooth-control)
+  - [Sample Connection of RC Car Bluetooth control](#sample-connection-of-rc-car-bluetooth-control)
     - [FOR HC 05 or 06](#for-hc-05-or-06)
     - [FOR HM10](#for-hm10)
     - [Serial Code to Arduino](#serial-code-to-arduino)
@@ -150,6 +150,7 @@ PARTS REQUIRED:
 # IP CAM VIEWER
 
 Using 3rd party IP CAM (copy the IP address) - Must be the same network
+
 link:https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_US
 
 #
