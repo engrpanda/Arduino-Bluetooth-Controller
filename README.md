@@ -1,22 +1,23 @@
 # ArduBT-Controller plus ULTRA
 # Arduino-Bluetooth-Controller plus ULTRA
 
+- FOR
+  - HC 05
+  - HC 06
+- 3 MODES
+  - SWITCH ON/OFF MODE
+  - GAMEPAD MODE
+  - VOICE RECOGNITION MODE
+  
+- more modes in progress
 
-3 Modes: SWITCH ON/OFF MODE, GAMEPAD MODE ,VOICE RECOGNITION MODE (more modes in progress).
+- ok why plus ultra? cuz im a big fan of all might(Plus ultra means go beyond your limit). :) 
 
+- So there's a lot of arduino bluetooth controller in googlestore(play store) but there's limited buttons, functions and also limited to hc05 only or hm10 only. So i made this app to circumvent those problems whehe. This app is for those who has two types of bluetooth module and dont want to download each app specifically for that BT module. 
 
-For HC 05 , HC 06 & HM 10
+- This app makes you control your Arduino projects like RC car or any IOT applications using your mobile phone thru bluetooth.
 
-- ok why plus ultra? first im a fan of all might(Plus ultra means go beyond your limit). :) 
-
-So there's a lot of arduino bluetooth controller in googlestore(play store) but there's limited buttons, functions and also limited to hc05 only or hm10 only. So i made this app to circumvent those problems whehe. This app is for those who has two types of bluetooth module and dont want to download each app specifically for that BT module. 
-
-
-
-
-This app makes you control your Arduino projects like RC car or any IOT applications using your mobile phone thru bluetooth.
-
-All the files (apk, circuit, program, codes) are all provided) :)
+  - All the files (apk, circuit, program, codes) are all provided) :)
 
 # Compatible with android 4.4.4 (API 19) to android 10(API 29). 
 # Compatible from Bluetooth 2.0 to Bluetooth 5.0.
@@ -28,14 +29,21 @@ This app is under beta test.  Any bugs or error can be reported or send to my em
 - [Table Of Contents](#table-of-contents)
 - [PROGRAM](#program)
 - [FRITZING CIRCUIT CONNECTIONS](#fritzing-circuit-connections)
-- [1 SWITCH ON OFF MODE](#1-switch-on-off-mode)
 - [APP](#app)
+- [1 SWITCH ON OFF MODE](#1-switch-on-off-mode)
   - [Sample Connection of Simple LED Bluetooth control](#sample-connection-of-simple-led-bluetooth-control)
-    - [a FOR HC 05 or 06](#a-for-hc-05-or-06)
-
-
-
-
+    - [FOR HC 05 or 06](#for-hc-05-or-06)
+    - [FOR HM10](#for-hm10)
+  - [Sample Connection of Relay Bluetooth control](#sample-connection-of-relay-bluetooth-control)
+    - [FOR HC 05 or 06](#for-hc-05-or-06)
+    - [FOR HM10](#for-hm10)
+    - [Serial Code to Arduino](#serial-code-to-arduino)
+- [2 GAMEPAD MODE](#2-gamepad-mode)
+  - [Sample Connection of Relay Bluetooth control](#sample-connection-of-relay-bluetooth-control)
+    - [FOR HC 05 or 06](#for-hc-05-or-06)
+    - [FOR HM10](#for-hm10)
+    - [Serial Code to Arduino](#serial-code-to-arduino)
+- [3 VOICE RECOGNITION MODE](#3-voice-recognition-mode)
 
 
 ## PROGRAM
@@ -54,12 +62,14 @@ GIthub: https://github.com/engrpanda/Arduino-Bluetooth-Controller/releases
 
 
 
-Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
+
 
 ![screen1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/plus_ultra.jpg)
 ![screen1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/1.jpg)
 #
 You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode. (will update more mode soon).
+
+Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
 
 ![menu](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/2.jpg)
 
@@ -89,42 +99,46 @@ Digital pins 2-13 & Analog pins A0-A5 can be used.
 You can add LED up to 18LEDs (D2-A5) to control.
 
 
-##### a FOR HC 05 or 06
+##### FOR HC 05 or 06
 
 ![hc06 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true)
 
-##### b FOR HM10
+##### FOR HM10
 
 ![hm10 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20led_bb.jpg?raw=true)
 
 #
-# Sample Connection of Relay-Bluetooth control connection. 
+### Sample Connection of Relay Bluetooth control 
 
 Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your lights i.e bulbs or any appliances for IOT applications.
 
-# a.) FOR HC 05/06
+#### FOR HC 05 or 06
 
 ![hc06 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20relay_bb.jpg?raw=true)
 
 
-# b.) FOR HM10
+#### FOR HM10
 
 ![hm10 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20relay_bb.jpg?raw=true)
 
 
 
 #
-# Serial Code to Arduino
+#### Serial Code to Arduino
 
  Switch ON/OFF Serial code to Arduino
  
 ![SWITCH_CODE](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/ARDUINO%20PROGRAM/SWITCH_CODE.PNG?raw=true)
 
 #
-# 2.) GAMEPAD MODE
+## 2 GAMEPAD MODE
 PARTS REQUIRED: 
 - ROBOT CAR CHASIS WITH DC MOTORS
-- ARDUINO UNO or similar
+- ARDUINO UNO or simil    - [FOR HC 05 or 06](#for-hc-05-or-06)
+    - [FOR HM10](#for-hm10)
+    - [Serial Code to Arduino](#serial-code-to-arduino)    - [FOR HC 05 or 06](#for-hc-05-or-06)
+    - [FOR HM10](#for-hm10)
+    - [Serial Code to Arduino](#serial-code-to-arduino)ar
 - L298N MOTOR DRIVER
 - Connecting wires
 - HC05/06 OR HM10
@@ -137,23 +151,25 @@ Using 3rd party IP CAM (copy the IP address)
 link:https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_US
 
 #
-# Sample Connection of RC Car-Bluetooth control connection. 
+### Sample Connection of RC Car Bluetooth control 
 
 Using this controller you can control your RC car forward, Turnleft, turnright, backward etc. 
 
 
-# a.) FOR HC 05/06
+#### FOR HC 05 or 06
 
 ![hc06 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20car_bb.jpg?raw=true)
 
 
-# b.) FOR HM10
+#### FOR HM10    - [FOR HC 05 or 06](#for-hc-05-or-06)
+    - [FOR HM10](#for-hm10)
+    - [Serial Code to Arduino](#serial-code-to-arduino)
 
 ![hm10 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true)
 
 
 #
-# Serial Code to Arduino
+##### Serial Code to Arduino
 
  Gamepad Serial code to Arduino
  
@@ -163,7 +179,7 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
 
 
 #
-# 3.) VOICE RECOGNITION MODE
+## 3 VOICE RECOGNITION MODE
 
 This mode lets the user control IOT applications using voice command thru arduino.(NEED INTERNET)
 
