@@ -150,6 +150,7 @@ PARTS REQUIRED:
 <img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.jpg" width="700" height="450">
 <img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.1.png?raw=true" width="700" height="450">
 <img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/ipcam.jpg?raw=true" width="700" height="450">
+
 # IP CAM VIEWER
 
 Using 3rd party IP CAM (copy the IP address) - Must be the same network
@@ -195,7 +196,7 @@ This mode use google tts & speech recognition. Make sure the device has it. Any 
 <img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/5.jpg" width="700" height="450">
 <img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/6.jpg" width="700" height="450">
 
-# Sample Code
+# Voice Sample Code
 
 
 <img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/Voice%20sample.PNG" width="500" height="500">
