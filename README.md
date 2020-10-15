@@ -1,12 +1,13 @@
 # ArduBT-Controller plus ULTRA
 # Arduino-Bluetooth-Controller plus ULTRA
 
-- FOR
+# FOR
   - HC 05
   - HC 06
-- 3 MODES
+# 3 MODES
   - SWITCH ON/OFF MODE
-  - GAMEPAD MODE
+  - GAMEPAD MODE (arrow button /analog joystick)
+    - IP CAM VIEWER
   - VOICE RECOGNITION MODE
   
 - more modes in progress
@@ -142,8 +143,9 @@ PARTS REQUIRED:
 ![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.jpg)
 ![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.1.png?raw=true)
 ![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/ipcam.jpg?raw=true)
+# IP CAM VIEWER
 
-Using 3rd party IP CAM (copy the IP address)
+Using 3rd party IP CAM (copy the IP address) - Must be the same network
 link:https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_US
 
 #
