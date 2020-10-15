@@ -14,15 +14,15 @@
     - IP CAM Video VIEWER
   - VOICE RECOGNITION MODE
   
-- more modes in progress
+ more modes in progress
 
-- ok why plus ultra? cuz im a big fan of all might(Plus ultra means go beyond your limit). :) 
+ ok why plus ultra? cuz im a big fan of all might(Plus ultra means go beyond your limit). :) 
 
-- So there's a lot of arduino bluetooth controller in googlestore(play store) but there's limited buttons, functions and also limited to hc05 only or hm10 only. So i made this app to circumvent those problems whehe. This app is for those who has two types of bluetooth module and dont want to download each app specifically for that BT module. 
+ So there's a lot of arduino bluetooth controller in googlestore(play store) but there's limited buttons, functions and also limited to hc05 only or hm10 only. So i made this app to circumvent those problems whehe. This app is for those who has two types of bluetooth module and dont want to download each app specifically for that BT module. 
 
-- This app makes you control your Arduino projects like RC car or any IOT applications using your mobile phone thru bluetooth.
+ This app makes you control your Arduino projects like RC car or any IOT applications using your mobile phone thru bluetooth.
 
-  - All the files (apk, circuit, program, codes) are all provided) :)
+ All the files (apk, circuit, program, codes) are all provided) :)
 
 # Compatible with android 4.4.4 (API 19) to android 10(API 29). 
 # Compatible from Bluetooth 2.0 to Bluetooth 5.0.
