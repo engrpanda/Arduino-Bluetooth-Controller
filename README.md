@@ -1,13 +1,17 @@
 # ArduBT-Controller plus ULTRA
 # Arduino-Bluetooth-Controller plus ULTRA
 
-# FOR
-  - HC 05
-  - HC 06
+# COMPATIBLE FOR
+  - HC 05 Bluetooth Classic Module
+  - HC 06 Bluetooth Classic Module
+  - HM 10 Bluetooth Low Energy Module
+  
 # 3 MODES
   - SWITCH ON/OFF MODE
-  - GAMEPAD MODE (arrow button /analog joystick)
-    - IP CAM VIEWER
+  - GAMEPAD MODE 
+    - Arrow button 
+    - Analog joystick button
+    - IP CAM Video VIEWER
   - VOICE RECOGNITION MODE
   
 - more modes in progress
