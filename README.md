@@ -39,10 +39,11 @@ This app is under beta test.  Any bugs or error can be reported or send to my em
   - [Sample Connection of Simple LED Bluetooth control](#sample-connection-of-simple-led-bluetooth-control)
     - [FOR HC 05 or 06 led](#for-hc-05-or-06-led)
     - [FOR HM10 led](#for-hm10-led)
+    - [Serial Code to Arduino switch](#serial-code-to-arduino-switch)
   - [Sample Connection of Relay Bluetooth control](#sample-connection-of-relay-bluetooth-control)
     - [FOR HC 05 or 06 relay](#for-hc-05-or-06-relay)
     - [FOR HM10 relay](#for-hm10-relay)
-    - [Serial Code to Arduino led](#serial-code-to-arduino-led)
+    - [Serial Code to Arduino switch](#serial-code-to-arduino-switch)
 - [2 GAMEPAD MODE](#2-gamepad-mode)
   - [Sample Connection of RC Car Bluetooth control](#sample-connection-of-rc-car-bluetooth-control)
     - [FOR HC 05 or 06 car](#for-hc-05-or-06-car)
@@ -69,14 +70,16 @@ GIthub: https://github.com/engrpanda/Arduino-Bluetooth-Controller/releases
 
 
 
-![screen1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/plus_ultra.jpg)
-![screen1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/1.jpg)
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/plus_ultra.jpg" width="700">
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/1.jpg" width="700">
+
 #
 You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode. (will update more mode soon).
 
 Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
 
-![menu](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/2.jpg)
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/2.jpg" width="700">
+
 
 
 # NOTE: Important. 
@@ -96,7 +99,7 @@ Labels(D2, D3, A0 etc) can be Rename. i.e Light1, LED1, Relay1, .
 
 Digital pins 2-13 & Analog pins A0-A5 can be used.
 
-![2](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/3.jpg)
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/3.jpg" width="700" height="450">
 
 #
 ### Sample Connection of Simple LED Bluetooth control
@@ -106,11 +109,11 @@ You can add LED up to 18LEDs (D2-A5) to control.
 
 ##### FOR HC 05 or 06 led
 
-![hc06 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true)
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true" width="700" height="700">
 
 ##### FOR HM10 relay led
 
-![hm10 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20led_bb.jpg?raw=true)
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20led_bb.jpg?raw=true" width="700" height="700">
 
 #
 ### Sample Connection of Relay Bluetooth control 
@@ -119,21 +122,21 @@ Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your li
 
 #### FOR HC 05 or 06 relay
 
-![hc06 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20relay_bb.jpg?raw=true)
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20relay_bb.jpg?raw=true" width="700" height="700">
 
 
 #### FOR HM10 relay
 
-![hm10 relay_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20relay_bb.jpg?raw=true)
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20relay_bb.jpg?raw=true" width="700" height="700">
 
 
 
 #
-#### Serial Code to Arduino led
+#### Serial Code to Arduino switch
 
  Switch ON/OFF Serial code to Arduino
- 
-![SWITCH_CODE](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/ARDUINO%20PROGRAM/SWITCH_CODE.PNG?raw=true)
+
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/ARDUINO%20PROGRAM/SWITCH_CODE.PNG?raw=true" width="300" height="300">
 
 #
 ## 2 GAMEPAD MODE
@@ -144,9 +147,9 @@ PARTS REQUIRED:
 - Connecting wires
 - HC05/06 OR HM10
 
-![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.jpg)
-![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.1.png?raw=true)
-![1](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/ipcam.jpg?raw=true)
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.jpg" width="700" height="450">
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/4.1.png?raw=true" width="700" height="450">
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/ipcam.jpg?raw=true" width="700" height="450">
 # IP CAM VIEWER
 
 Using 3rd party IP CAM (copy the IP address) - Must be the same network
@@ -161,13 +164,13 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
 
 #### FOR HC 05 or 06 car
 
-![hc06 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20car_bb.jpg?raw=true)
 
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20car_bb.jpg?raw=true" width="700" height="450">
 
 #### FOR HM10 car
 
-![hm10 car_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true)
 
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20car_bb.jpg?raw=true" width="700" height="450">
 
 #
 ##### Serial Code to Arduino car
@@ -176,7 +179,7 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
  
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value for UP, DOWN, LEFT, RIGHT is "S" and for SQUARE, TRIANGLE, CIRCLE, EXS is "s". 
 
-![GAMEPAD_CODE](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/ARDUINO%20PROGRAM/GAMEPAD_CODE.PNG?raw=true)
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/ARDUINO%20PROGRAM/GAMEPAD_CODE.PNG?raw=true" width="300" height="300">
 
 
 #
@@ -188,11 +191,11 @@ This mode lets the user control IOT applications using voice command thru arduin
 This mode use google tts & speech recognition. Make sure the device has it. Any Language can be recognized based on your phone google recognition. Voice text and arduino text code must be the same for it to work (Case sensitive).
 
 
-![voice](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/5.jpg)
-![voice](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/6.jpg)
+
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/5.jpg" width="700" height="450">
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/6.jpg" width="700" height="450">
 
 # Sample Code
 
 
-![voice](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/Voice%20sample.PNG)
-
+<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/Voice%20sample.PNG" width="500" height="500">
