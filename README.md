@@ -18,23 +18,40 @@ This app makes you control your Arduino projects like RC car or any IOT applicat
 
 All the files (apk, circuit, program, codes) are all provided) :)
 
-
-# PROGRAM
-
-https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/ARDUINO%20PROGRAM
-
-# FRITZING CIRCUIT CONNECTIONS
-
-https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/SCHEMATIC%20FRITZING%20DIAGRAM
-
-# APP
-
-https://play.google.com/store/apps/details?id=com.ArduBT.panda&hl=en
-
 # Compatible with android 4.4.4 (API 19) to android 10(API 29). 
 # Compatible from Bluetooth 2.0 to Bluetooth 5.0.
 
 This app is under beta test.  Any bugs or error can be reported or send to my email. (engrpandaece@gmail.com) 
+
+## Table Of Contents
+
+- [Table Of Contents](#table-of-contents)
+- [PROGRAM](#program)
+- [FRITZING CIRCUIT CONNECTIONS](#fritzing-circuit-connections)
+- [1 SWITCH ON OFF MODE](#1-switch-on-off-mode)
+- [APP](#app)
+  - [Sample Connection of Simple LED Bluetooth control](#sample-connection-of-simple-led-bluetooth-control)
+    - [a FOR HC 05 or 06](#a-for-hc-05-or-06)
+
+
+
+
+
+
+## PROGRAM
+
+https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/ARDUINO%20PROGRAM
+
+## FRITZING CIRCUIT CONNECTIONS
+
+https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/SCHEMATIC%20FRITZING%20DIAGRAM
+
+## APP
+
+Play Store: https://play.google.com/store/apps/details?id=com.ArduBT.panda&hl=en
+
+GIthub: https://github.com/engrpanda/Arduino-Bluetooth-Controller/releases
+
 
 
 Check the provided Schematic Fritzing for connections. Arduino Pins D0 & D1 are used for Bluetooth Module.
@@ -51,7 +68,7 @@ You can choose from Switch ON/OFF mode, Gamepad mode, Voice Recognition mode. (w
 Before uploading to arduino disconnect first any connection in PIN D0 & D1 (TX,RX).
 
 #
-# 1.) SWITCH ON/OFF MODE
+## 1 SWITCH ON OFF MODE
 PARTS REQUIRED: 
 - ARDUINO UNO or similar
 - Anything Digital OUTPUT i.e LED's, Relay etc.
@@ -67,16 +84,16 @@ Digital pins 2-13 & Analog pins A0-A5 can be used.
 ![2](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/3.jpg)
 
 #
-# Sample Connection of Simple LED-Bluetooth control connection. 
+### Sample Connection of Simple LED Bluetooth control
 
 You can add LED up to 18LEDs (D2-A5) to control.
 
 
-# a.) FOR HC 05/06
+##### a FOR HC 05 or 06
 
 ![hc06 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HC06/hc06%20led_bb.jpg?raw=true)
 
-# b.) FOR HM10
+##### b FOR HM10
 
 ![hm10 led_bb](https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/SCHEMATIC%20FRITZING%20DIAGRAM/HM10/hm10%20led_bb.jpg?raw=true)
 
