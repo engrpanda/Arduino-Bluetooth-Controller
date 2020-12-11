@@ -207,9 +207,9 @@ This mode use google tts & speech recognition. Make sure the device has it. Any 
 ## Contact
 Have an project? DM me at 👇
 
-Drop a mail to:- engrpandaece@gmail.com
+Drop a mail to: engrpandaece@gmail.com
 
 # Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://https://www.paypal.com/paypalme/engrpandaece)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/engrpandaece)
