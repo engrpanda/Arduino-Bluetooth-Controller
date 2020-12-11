@@ -200,3 +200,16 @@ This mode use google tts & speech recognition. Make sure the device has it. Any 
 
 
 <img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/APP%20SAMPLE%20PIC/Voice%20sample.PNG" width="500" height="500">
+
+
+
+
+## Contact
+Have an project? DM me at 👇
+
+Drop a mail to:- engrpandaece@gmail.com
+
+# Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://https://www.paypal.com/paypalme/engrpandaece)
