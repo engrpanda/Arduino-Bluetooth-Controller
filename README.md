@@ -56,6 +56,10 @@ This app is under beta test.  Any bugs or error can be reported or send to my em
 
 https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/ARDUINO%20PROGRAM
 
+- Change Bluetooth name and password - AT commands
+
+https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/AT_COMMANDS
+
 ## FRITZING CIRCUIT CONNECTIONS
 
 https://github.com/engrpanda/Arduino-Bluetooth-Controller/tree/master/SCHEMATIC%20FRITZING%20DIAGRAM
