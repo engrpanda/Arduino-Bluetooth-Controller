@@ -9,7 +9,7 @@
 # 3 MODES
   - SWITCH ON/OFF MODE
   - GAMEPAD MODE 
-    - Arrow button 
+    - 4 Arrow button and 4 diagonal for omnidrive
     - Analog joystick button
     - IP CAM Video VIEWER
   - VOICE RECOGNITION MODE
@@ -140,7 +140,7 @@ Up to 18 channels (D2-A5) Relay can be used. Using relay you can control your li
 
  Switch ON/OFF Serial code to Arduino
 
-<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/ARDUINO%20PROGRAM/SWITCH_CODE.PNG?raw=true" width="300" height="300">
+<img src="https://raw.githubusercontent.com/engrpanda/Arduino-Bluetooth-Controller/master/ARDUINO%20PROGRAM/SWITCH_CODE.png" width="300" height="300">
 
 #
 ## 2 GAMEPAD MODE
@@ -184,7 +184,7 @@ Using this controller you can control your RC car forward, Turnleft, turnright, 
  
  NOTE: UP, LEFT, RIGHT, DOWN, SQUARE, TRIANGLE, CIRCLE, EXS Buttons can be hold. not holding serial value for UP, DOWN, LEFT, RIGHT is "S" and for SQUARE, TRIANGLE, CIRCLE, EXS is "s". 
 
-<img src="https://github.com/engrpanda/Arduino-Bluetooth-Controller/blob/master/ARDUINO%20PROGRAM/GAMEPAD_CODE.PNG?raw=true" width="300" height="300">
+<img src="https://raw.githubusercontent.com/engrpanda/Arduino-Bluetooth-Controller/master/ARDUINO%20PROGRAM/GAMEPAD_CODE.png" width="300" height="300">
 
 
 #
